@@ -4,7 +4,7 @@ import Background from './Background/Background';
 const Wrapper = () => {
     return (
       <>
-      <Background />
+      {/* <Background /> */}
       <Home />
       </>
     )
